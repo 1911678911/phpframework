@@ -1,0 +1,17 @@
+{
+    "name": "php framework",
+    "description": "PHP FRAMEWORK",
+    "type": "framework",
+    "keywords": [
+        "PHP",
+        "PHP FRAMEWORK"
+    ],
+    "require": {
+        "php": "^5.3.3 || ^7.0",
+        "filp/whoops": "*",
+        "symfony/var-dumper":"*",
+        "catfan/medoo":"*",
+        "twitter/bootstrap":"*",
+        "twig/twig":"*"
+    }
+}
